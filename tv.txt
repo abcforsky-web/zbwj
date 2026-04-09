@@ -1,8 +1,5 @@
 广东体育,http://183.57.248.13:8183/tsfile/live/1000_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 大湾区,http://183.57.248.13:8183/tsfile/live/1002_1.m3u8
 大湾区,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
@@ -12,7 +9,6 @@
 广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广州南国,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
 广州南国,http://rihou.cc:555/tv/[Cx]广州南国
@@ -70,7 +66,6 @@
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,http://r.jdshipin.com/qClQf
 TVB星河,http://r.jdshipin.com/Voac4
@@ -88,8 +83,6 @@ TVB华剧台,http://r.jdshipin.com/62WM7
 TVB华丽,http://rihou.cc:555/tv/[Pd]无线华丽
 TVB新聞台,http://r.jdshipin.com/CkuBd
 TVB新聞台,http://rihou.cc:555/tv/TVB新闻
-TVB新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-TVB新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 凤凰卫视,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰卫视,https://cdn6.163189.xyz/163189/fhzw
@@ -179,12 +172,6 @@ CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
-RTHK-31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-RTHK-31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-RTHK-32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
-RTHK-32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
