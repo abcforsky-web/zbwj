@@ -5,9 +5,9 @@
 大湾区,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 大湾区,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广东影视,http://183.57.248.13:8183/tsfile/live/1004_1.m3u8
+广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://183.57.248.13:8183/tsfile/live/1001_1.m3u8
 广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广州南国,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
