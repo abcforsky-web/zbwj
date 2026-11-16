@@ -1,5 +1,5 @@
 {
-"spider": "http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",
+"spider": "https://skyforme.dpdns.org/tvbox/spider.jar",
   "sites": [
 {"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://skyforme.dpdns.org/tvbox/libs/js/drpy2.min.js","ext":"https://skyforme.dpdns.org/tvbox/libs/js/iqiyi.js"},
     {
