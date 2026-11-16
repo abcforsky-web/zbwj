@@ -1,5 +1,5 @@
 {
-"spider": "https://skyforme.dpdns.org/tvbox/spider.jar",
+"spider": "https://skyforme.dpdns.org/tvbox/fty.jar",
   "sites": [
 {"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://skyforme.dpdns.org/tvbox/libs/js/drpy2.min.js","ext":"https://skyforme.dpdns.org/tvbox/libs/js/iqiyi.js"},
     {
