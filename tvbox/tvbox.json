@@ -14,35 +14,40 @@
       "name": "非凡资源",
       "type": 1,
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1
+      "searchable": 1,
+      "categories": ["国产剧", "香港剧", "国产动漫", "短剧"]
     },
     {
       "key": "lzi",
       "name": "量子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1
+      "searchable": 1,
+      "categories": ["国产剧", "香港剧", "国产动漫", "AI漫剧"]
     },
     {
       "key": "dyttzy",
       "name": "电影天堂资源",
       "type": 1,
       "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
-      "searchable": 1
+      "searchable": 1,
+      "categories": ["国产剧", "香港剧", "国产动漫", "短剧"]
     },
     {
       "key": "guangsu",
       "name": "光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "searchable": 1
+      "searchable": 1,
+      "categories": ["大陆剧", "港澳剧", "中国动漫", "AI漫剧"]
     },
     {
       "key": "subo",
       "name": "素博资源",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "searchable": 1
+      "searchable": 1,
+      "categories": ["大陆剧", "港澳剧", "中国动漫", "AI漫剧"]
     }
   ],
   "parses": [
