@@ -1,13 +1,13 @@
 {
-"spider": "https://skyforme.dpdns.org/tvbox/fty.jar",
+"spider": "https://skytv.ccwu.cc/tvbox/fty.jar",
   "sites": [
-{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://skyforme.dpdns.org/tvbox/libs/js/drpy2.min.js","ext":"https://skyforme.dpdns.org/tvbox/libs/js/iqiyi.js"},
+{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://skytv.ccwu.cc/tvbox/libs/js/drpy2.min.js","ext":"https://skytv.ccwu.cc/tvbox/libs/js/iqiyi.js"},
     {
       "key":"dr_youku",
       "name": "🥔┃优酷(官)", 
       "type":3,
-      "api": "https://skyforme.dpdns.org/tvbox/libs/js/drpy2.min.js", 
-      "ext":"https://skyforme.dpdns.org/tvbox/libs/js/youku.js"
+      "api": "https://skytv.ccwu.cc/tvbox/libs/js/drpy2.min.js", 
+      "ext":"https://skytv.ccwu.cc/tvbox/libs/js/youku.js"
     },
     {
       "key": "ffzy",
