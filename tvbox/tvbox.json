@@ -1,13 +1,13 @@
 {
-"spider": "https://zbwj.pages.dev/tvbox/fty.jar",
+"spider": "https://gh-proxy.com/github.com/abcforsky-web/zbwj/blob/main/tvbox/fty.jar",
   "sites": [
-{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://zbwj.pages.dev/tvbox/libs/js/drpy2.min.js","ext":"https://zbwj.pages.dev/tvbox/libs/js/iqiyi.js"},
+{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://gh-proxy.com/github.com/abcforsky-web/zbwj/blob/main/tvbox/libs/js/drpy2.min.js","ext":"https://gh-proxy.com/github.com/abcforsky-web/zbwj/blob/main/tvbox/libs/js/iqiyi.js"},
     {
       "key":"dr_youku",
       "name": "🥔┃优酷(官)", 
       "type":3,
-      "api": "https://zbwj.pages.dev/tvbox/libs/js/drpy2.min.js", 
-      "ext":"https://zbwj.pages.dev/tvbox/libs/js/youku.js"
+      "api": "https://gh-proxy.com/github.com/abcforsky-web/zbwj/blob/main/tvbox/libs/js/drpy2.min.js", 
+      "ext":"https://gh-proxy.com/github.com/abcforsky-web/zbwj/blob/main/tvbox/libs/js/youku.js"
     },
     {
       "key": "ffzy",
